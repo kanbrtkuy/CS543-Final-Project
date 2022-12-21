@@ -1,0 +1,10 @@
+path: ../datasets/traffic_lights_balanced
+train: images/train
+val: images/val
+test:
+
+names:
+  0: red
+  1: yellow
+  2: green
+  3: none
